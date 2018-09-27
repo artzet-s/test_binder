@@ -2,4 +2,3 @@
 
 set -ex
 
-pip install ipywidgets~=6.0.0b5 --user
