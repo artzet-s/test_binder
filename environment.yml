@@ -1,7 +1,8 @@
 name: phenomenal
 channels:
   - defaults
+  - conda-forge
 
 dependencies:
   - python=2.7
-  - vtk
+  - ipyvolume
