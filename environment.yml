@@ -6,3 +6,6 @@ channels:
 dependencies:
   - python=2.7
   - ipyvolume
+  - nodejs
+  - pip:
+    - ipywidgets>=7.4
