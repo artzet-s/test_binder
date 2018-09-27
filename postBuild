@@ -2,5 +2,4 @@
 
 set -ex
 
-jupyter nbextension enable --py --sys-prefix ipyvolume
-jupyter nbextension enable --py --sys-prefix widgetsnbextension
+pip install ipywidgets~=6.0.0b5 --user
