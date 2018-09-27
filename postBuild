@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -ex
+
+jupyter nbextension enable --py --sys-prefix ipyvolume
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
